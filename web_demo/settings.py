@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'djangobower',
     'rest_framework',
     'todo',
+    'toga_django',
 ]
 
 MIDDLEWARE_CLASSES = [

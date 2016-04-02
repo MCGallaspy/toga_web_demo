@@ -2,4 +2,4 @@ django==1.9
 django-bower==5.1.0
 djangorestframework==3.3.2
 -e git+http://github.com/pybee/toga.git@cf231b0f6932aaeecc028ac092b5958b3182262c#egg=toga-colosseum
--e git+https://github.com/MCGallaspy/toga-django.git@a23d2ee8b4ae9a8dce46674b7f1b79840c8ab19e#egg=toga-django
+-e git+https://github.com/MCGallaspy/toga-django.git@f521e5123a0353000cad2c567cadf96350978b09#egg=toga-django
