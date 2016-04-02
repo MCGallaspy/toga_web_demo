@@ -15,9 +15,10 @@ If you want to see it running, the code is `deployed on PythonAnyware`_.
 
 .. _deployed on PythonAnyware: http://freakboy3742.pythonanywhere.com/
 
-To run it yourself (requires Python 3.4)::
+To run it yourself (requires Python 3.4 + bower)::
     pip install -r requirements.txt
     python manage.py migrate
+    python manage.py bower install
     python manage.py collectstatic
     python manage.py runserver
 
